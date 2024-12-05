@@ -16,17 +16,17 @@ Text Formatter enhances text accessibility for a diverse range of users by enabl
 
 ## Installation
 * To run the program, you'll need to install the following three Python libraries:
-  1. pyttsx3 (required)
-  2. SpeechRecognition (required)
-  3. PyAudio (recommended)
+1. pyttsx3 (required)
+2. SpeechRecognition (required)
+3. PyAudio (recommended)
 * If Using Python
-  1. Open your terminal or command prompt.
-  2. Install the necessary libraries by running the following command:
+1. Open your terminal or command prompt.
+2. Install the necessary libraries by running the following command:
   ```python
   pip install pyttsx3 SpeechRecognition pyaudio
   ```
 * If using Pycharm
-  1. Navigate to View > Tool Windows > Python Packages
-  2. In the search bar, type <code>pyttsx3</code>, <code>SpeechRecognition</code>, <code>PyAudio</code>
+1. Navigate to View > Tool Windows > Python Packages
+2. In the search bar, type <code>pyttsx3</code>, <code>SpeechRecognition</code>, <code>PyAudio</code>
 
 
