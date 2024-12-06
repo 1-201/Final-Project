@@ -52,20 +52,20 @@ Our program is designed with accessibility in mind, catering to neurodivergent u
   </p>
 3. **Font Size**: Adjust the font size using a slider, ranging from 16 to 50. The updated text will appear in the output box.
   <p align="center">
-    <img src="https://i.imghippo.com/files/yEP6546bkc.png" alt="" border="0" width="200">
+    <img src="https://i.imghippo.com/files/yEP6546bkc.png" alt="" border="0" width="300">
   </p>
 4. **Text & Highlighter Colours**: Enter the desired colour names or hex codes/ The changes will display in the output box.
   <p align="center">
-    <img src="https://i.imghippo.com/files/sMF8964TjE.png" alt="" border="0" width="200">
+    <img src="https://i.imghippo.com/files/sMF8964TjE.png" alt="" border="0" width="300">
   </p>
 5. **Text Styles**: Apply italic or bold styles by pressing the corresponding buttons. Press the buttons again to return the text to its normal appearance.
   <p align="center">
-    <img src="https://i.imghippo.com/files/flM9691PI.png" alt="" border="0" width="200">
+    <img src="https://i.imghippo.com/files/flM9691PI.png" alt="" border="0" width="300">
   </p>
 
 ## Example Run
   <p align="center">
-    <img src="https://i.imghippo.com/files/WeGS2527QE.png" alt="" border="0">
+    <img src="https://i.imghippo.com/files/WeGS2527QE.png" alt="" border="0" width="200">
   </p>
 
 ## Code Structure
