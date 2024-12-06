@@ -17,9 +17,9 @@ Our program is designed with accessibility in mind, catering to neurodivergent u
 
 ## Installation
 * To run the program, you'll need to install the following three Python libraries:
-1. pyttsx3 (required)
-2. SpeechRecognition (required)
-3. PyAudio (recommended)
+  * pyttsx3 (required)
+  * peechRecognition (required)
+  * PyAudio (recommended)
 * If Using Python
 1. Open your terminal or command prompt.
 2. Install the necessary libraries by running the following command:
