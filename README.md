@@ -44,23 +44,23 @@ Our program is designed with accessibility in mind, catering to neurodivergent u
 * **Manual Typing**: Users can type English text directly into the entry box.
 * **Speech Input**: Press the "Record" button to capture spoken English, and press the same button again to stop recording.
   <p align="center">
-    <img src="https://i.imghippo.com/files/ZaY6259Ac.png" alt="" border="0">
+    <img src="https://i.imghippo.com/files/ZaY6259Ac.png" alt="" border="0" width="200">
   </p>  
 2. **Font Style**: Use the dropdown menu to select from three fonts. The changes will reflect in the output box
   <p align="center">
-    <img src="https://i.imghippo.com/files/Dx3711H.png" alt="" border="0">
+    <img src="https://i.imghippo.com/files/Dx3711H.png" alt="" border="0" width="200">
   </p>
 3. **Font Size**: Adjust the font size using a slider, ranging from 16 to 50. The updated text will appear in the output box.
   <p align="center">
-    <img src="https://i.imghippo.com/files/yEP6546bkc.png" alt="" border="0">
+    <img src="https://i.imghippo.com/files/yEP6546bkc.png" alt="" border="0" width="200">
   </p>
 4. **Text & Highlighter Colours**: Enter the desired colour names or hex codes/ The changes will display in the output box.
   <p align="center">
-    <img src="https://i.imghippo.com/files/sMF8964TjE.png" alt="" border="0">
+    <img src="https://i.imghippo.com/files/sMF8964TjE.png" alt="" border="0" width="200">
   </p>
 5. **Text Styles**: Apply italic or bold styles by pressing the corresponding buttons. Press the buttons again to return the text to its normal appearance.
   <p align="center">
-    <img src="https://i.imghippo.com/files/flM9691PI.png" alt="" border="0">
+    <img src="https://i.imghippo.com/files/flM9691PI.png" alt="" border="0" width="200">
   </p>
 
 ## Example Run
