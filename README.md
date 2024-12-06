@@ -47,12 +47,44 @@ Our program is designed with accessibility in mind, catering to neurodivergent u
     <img src="https://i.imghippo.com/files/ZaY6259Ac.png" alt="" border="0">
   </p>  
 2. **Font Style**: Use the dropdown menu to select from three fonts. The changes will reflect in the output box
-
+  <p align="center">
+    <img src="https://i.imghippo.com/files/Dx3711H.png" alt="" border="0">
+  </p>
 3. **Font Size**: Adjust the font size using a slider, ranging from 16 to 50. The updated text will appear in the output box.
-
+  <p align="center">
+    <img src="https://i.imghippo.com/files/yEP6546bkc.png" alt="" border="0">
+  </p>
 4. **Text & Highlighter Colours**: Enter the desired colour names or hex codes/ The changes will display in the output box.
-
+  <p align="center">
+    <img src="https://i.imghippo.com/files/sMF8964TjE.png" alt="" border="0">
+  </p>
 5. **Text Styles**: Apply italic or bold styles by pressing the corresponding buttons. Press the buttons again to return the text to its normal appearance.
+  <p align="center">
+    <img src="https://i.imghippo.com/files/flM9691PI.png" alt="" border="0">
+  </p>
+
+## Example Run
+  <p align="center">
+    <img src="https://i.imghippo.com/files/WeGS2527QE.png" alt="" border="0">
+  </p>
+
+## Code Structure
+1. Imports
+* <code>tkinter</code>, <code>pyttsx3</code>, <code>SpeechRecognition</code>, <code>threading</code> are imported at the top to provide the required functionality for the app.
+2. Use of class
+3. <code>__init__</code> Method:
+* Initializes the main application window and sets up key components like text areas, buttons, sliders, dropdowns, and entry boxes for font and colour customization.
+4. Button and Controls:
+* The <code>Button</code> widget is used to create interactive UI elements for user actions (e.g. record, stop recording).
+* A dedicated <code>controls()</code> function handles all button-related actions, keeping the main UI setup clean and organized.
+5. Font Customization
+* Font Style Dropdown (OptionMenu): The OptionMenu widget allows users to choose a font style. It offers three font styles,  "Arial", "Courier", and "Helvetica."
+* Font Size Slider (Scale): The Scale widget provides an interactive slider to adjust the font size.
+* Font and Highlighter Colour Customization (Entry Boxes): Entry boxes allow users to input the desired colour for the font and highlight text.
+6. Text-to-Speech and Speech-to-Text:
+* <code>SpeechRecognition</code> is used for speech-to-text, allowing the app to listen to and convert user speech into text.
+* <code>pyttsx3</code> is used for text-to-speech functionality, allowing the app to speak out text to the user.
+* <code>threading</code> is used to enable multiple processes (such as recording and updating the UI) to run concurrently.
 
 
 
