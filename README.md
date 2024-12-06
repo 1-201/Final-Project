@@ -78,9 +78,9 @@ Our program is designed with accessibility in mind, catering to neurodivergent u
 * The <code>Button</code> widget is used to create interactive UI elements for user actions (e.g. record, stop recording).
 * A dedicated <code>controls()</code> function handles all button-related actions, keeping the main UI setup clean and organized.
 5. Font Customization
-* Font Style Dropdown (OptionMenu): The OptionMenu widget allows users to choose a font style. It offers three font styles,  "Arial", "Courier", and "Helvetica."
-* Font Size Slider (Scale): The Scale widget provides an interactive slider to adjust the font size.
-* Font and Highlighter Colour Customization (Entry Boxes): Entry boxes allow users to input the desired colour for the font and highlight text.
+* **Font Style Dropdown (OptionMenu)**: The OptionMenu widget allows users to choose a font style. It offers three font styles,  "Arial", "Courier", and "Helvetica."
+* **Font Size Slider (Scale)**: The Scale widget provides an interactive slider to adjust the font size.
+* **Font and Highlighter Colour Customization (Entry Boxes)**: Entry boxes allow users to input the desired colour for the font and highlight text.
 6. Text-to-Speech and Speech-to-Text:
 * <code>SpeechRecognition</code> is used for speech-to-text, allowing the app to listen to and convert user speech into text.
 * <code>pyttsx3</code> is used for text-to-speech functionality, allowing the app to speak out text to the user.
