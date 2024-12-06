@@ -35,7 +35,7 @@ Our program is designed with accessibility in mind, catering to neurodivergent u
 1. Input: Users can either type text directly or provide speech input to be transcribed.
 2. Processing:
 * Change font style, apply formatting (bold and italic), and select font sizes.
-* Modify text and highlighter colorus using either colour names or hex codes.
+* Modify text and/or highlighter colour using either colour names or hex codes.
 * Read the input text aloud with a button press.
 3. Output: The formatted text is displayed live in the output area, reflecting all customizations in real time.
 
