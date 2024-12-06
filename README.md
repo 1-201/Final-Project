@@ -65,7 +65,7 @@ Our program is designed with accessibility in mind, catering to neurodivergent u
 
 ## Example Run
   <p align="center">
-    <img src="https://i.imghippo.com/files/WeGS2527QE.png" alt="" border="0" width="200">
+    <img src="https://i.imghippo.com/files/WeGS2527QE.png" alt="" border="0" width="500">
   </p>
 
 ## Code Structure
